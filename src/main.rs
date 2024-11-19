@@ -1,3 +1,4 @@
+use pest::Parser;
 use pest_derive::Parser;
 use pest::pratt_parser::PrattParser;
 use pest::iterators::Pairs;
